@@ -157,6 +157,7 @@ p {
 }
 post__main__img {
   align-self: center;
+  width: 100px;
 }
 .post__info {
   width: 100%;
