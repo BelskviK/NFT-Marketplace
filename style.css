@@ -155,9 +155,9 @@ p {
   justify-content: center;
   overflow: hidden;
 }
-post__main__img {
+.post__main__img {
   align-self: center;
-  width: 100px;
+  width: 100%;
 }
 .post__info {
   width: 100%;
